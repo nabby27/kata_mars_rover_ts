@@ -1,6 +1,6 @@
-# Kata Boilerplate TS
+# Kata Mars Rover TS
 
-Template for katas in TypeScript
+[Kata instructions](./INSTRUCTIONS.md)
 
 ## Requirements
 
